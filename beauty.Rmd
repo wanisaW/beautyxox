@@ -1,0 +1,39 @@
+---
+title: "Beauty"
+description: 
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Best Selling Hair Care...
+
+The Ordinary Multi-Peptide Serum for Hair Density.
+
+amika Soulfood Nourishing Hair Mass. 
+
+Kérastase Blond Absolute Anti-Brass Purple Shampoo.
+
+OUAITexturizing Hair Spray. 
+
+DrybarThe Brush Crush Heated Straightening Brush. 
+
+Bumble and bumbleSurf Styling Leave In.
+
+KérastaseElixir Ultime Hydrating Hair Oil Serum.
+
+![](Images/hair.webp)
+we have alot of items that you will enjoy such as:
+
+-hair dye:
+![](Images/hair dye.jpg)
+lip care:
+![](Images/lip.webp)
+
+makeup:
+![](Images/makeup.jpg)

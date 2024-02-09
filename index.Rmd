@@ -1,0 +1,20 @@
+---
+title: "beautyxoxo"
+image: "Images/beauty.jfif"
+links:
+  - label: '<i class="fab fa-twitter"></i> Twitter'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fab fa-github"></i> GitHub'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fas fa-envelope"></i> Contact Us'
+    url: "wanisa.wajid_22@greenoak.bham.sch.uk" 
+output:
+   postcards::trestles
+site: distill::distill_website
+
+---
+ 
+## welcome
+
+This cosmetic industry describes the industry that manufactures and distributes cosmetic products. These include colour cosmetics, like foundation and mascara, skincare such as moisturisers and cleansers, haircare such as shampoos, conditioners and hair colours, and toiletries such as bubble bath and soap.
+natural beaty product is a broad term used to describe organic, natural and plant-based beauty products that contain ingredients sourced from nature including minerals, herbs, and botanicals amongst others. The term natural usually suggests that the product is free of chemicals like parabens, phthalates and sulphates. `r emo::ji("beauty")` 

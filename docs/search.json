@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-02-09T13:05:05+00:00"
+    },
+    {
+      "path": "beauty.html",
+      "title": "Beauty",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\nBest Selling Hair Care…\nThe Ordinary Multi-Peptide Serum for Hair Density.\namika Soulfood Nourishing Hair Mass.\nKérastase Blond Absolute Anti-Brass Purple Shampoo.\nOUAITexturizing Hair Spray.\nDrybarThe Brush Crush Heated Straightening Brush.\nBumble and bumbleSurf Styling Leave In.\nKérastaseElixir Ultime Hydrating Hair Oil Serum.\n\nwe have alot of items that you will enjoy such as:\n-hair dye:\n\nlip care:\n\nmakeup:\n\n\n\n\n",
+      "last_modified": "2024-02-23T12:29:09+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "beautyxoxo",
+      "author": [],
+      "contents": "\n\n          \n          \n          name of your website\n          \n          \n          Home\n          About\n          beauty\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              beautyxoxo\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            welcome\n            This cosmetic industry describes the industry that\n            manufactures and distributes cosmetic products. These\n            include colour cosmetics, like foundation and mascara,\n            skincare such as moisturisers and cleansers, haircare such\n            as shampoos, conditioners and hair colours, and toiletries\n            such as bubble bath and soap. natural beaty product is a\n            broad term used to describe organic, natural and plant-based\n            beauty products that contain ingredients sourced from nature\n            including minerals, herbs, and botanicals amongst others.\n            The term natural usually suggests that the product is free\n            of chemicals like parabens, phthalates and sulphates. 💅\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              beautyxoxo\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              welcome\n              This cosmetic industry describes the industry that\n              manufactures and distributes cosmetic products. These\n              include colour cosmetics, like foundation and mascara,\n              skincare such as moisturisers and cleansers, haircare such\n              as shampoos, conditioners and hair colours, and toiletries\n              such as bubble bath and soap. natural beaty product is a\n              broad term used to describe organic, natural and\n              plant-based beauty products that contain ingredients\n              sourced from nature including minerals, herbs, and\n              botanicals amongst others. The term natural usually\n              suggests that the product is free of chemicals like\n              parabens, phthalates and sulphates. 💅\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-02-09T13:05:06+00:00"
+    }
+  ],
+  "collections": []
+}

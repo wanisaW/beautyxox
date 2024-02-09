@@ -1,0 +1,14 @@
+name: "Beauty"
+title: "name of your website"
+description: |
+  Beauty
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "beauty"
+      href: beauty.html
+output: distill::distill_article
