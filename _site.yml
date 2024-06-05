@@ -1,7 +1,7 @@
 name: "Beauty"
 title: "beautyxoxo"
-description: |
-  Beauty
+description: 
+
 output_dir: "docs"
 navbar:
   right:
@@ -11,5 +11,6 @@ navbar:
       href: beauty.html
     - text: "About"
       href: about.html
+      
 output: distill::distill_article
 theme: my_theme.css

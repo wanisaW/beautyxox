@@ -13,7 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Best Selling Hair Care...
 
-The Ordinary Multi-Peptide Serum for Hair Density.
+
+The Ordinary Multi-Peptide Serum forHair Density.
 
 amika Soulfood Nourishing Hair Mass. 
 
@@ -24,6 +25,7 @@ OUAITexturizing Hair Spray.
 DrybarThe Brush Crush Heated Straightening Brush. 
 
 Bumble and bumbleSurf Styling Leave In.
+
 
 KérastaseElixir Ultime Hydrating Hair Oil Serum.
 
@@ -139,39 +141,70 @@ LANEIGE Lip Sleeping Mask - Berry (Original) 20g.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 makeup:
 ![](Images/makeup.jpg)
+WHAT IS THR POWER OF MAKEUP?
+
+It's a way to express yourself, transform your outlook, shield yourself from insecurities, and ultimately boost your self-esteem. So, the next time you pick up your makeup brush, remember that you're not just applying makeup; you're harnessing the power to boost your self-esteem and face the world with confidence
+
+QUOTES I LOVE;
+
+makeup is not a tool meant to make an ugly thing beautiful it is meant to magnify the beauty
+that already exists
+
+money cant buy happiness...but it can buy makeup
+
+i believe all women are pretty without makeup but witth the right makeup they are powerful
+
+Cosmetics are care substances used to enhance the appearance or odor of the human body. They are generally mixtures of chemical compounds, some being derived from natural sources, many being synthetic.
+
+
+
+
+
+
 lips:
-![](Images/nice.jpg)
+![](Images/nice.jpg){width=50%}
+A face without a smile is like a sky without a sun. A smile is the best makeup that can change your looks and your heart. A smile is the light of personality. 
+
+
+
+
+
+
+
+
 ![](Images/care.jpg)
 ![](Images/glam.webp)
+eyes;
+![](Images/eyes.jpg)
+![](Images/apply.jpg)
+![](Images/lies.jpg)
+
+Eye makeup is a type of cosmetics which aims to make the eyes look noticeable and attractive. It is mostly used by females, and by stage performers of all types. Eye makeup is an important part of the fashion and cosmetic industries. Subtle and effective eye makeup, chosen and blended with her skin and eye colour.
+
+Just as highlighting is important, contouring your eyes is a must to fake a larger appearance. Use a dark brown shade, like L'Oréal Paris Infallible 24HR Eyeshadow in Bronzed Taupe, to define your eyes. Apply the shadow just slightly above the crease of your eye to create the illusion that your eyes are larger.
+
+Waterline eyeliner, eyelash extensions, colored contacts, and false eyelashes all pose some risk to your eyes. These types of makeup are applied directly into or close to your eyes, potentially introducing unwanted bacteria. Contact injuries, especially scratching, can also be caused by makeup however our makeup is less dangerous and is actually very
+good for ur eyes and lashes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

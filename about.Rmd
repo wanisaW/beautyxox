@@ -1,10 +1,15 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "About"
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Cosmetics are pharmaceutical products
+that are used for improving skin appearance and
+body odor. These products are available in various
+forms, ranging from lotions, creams, powders,and 
+so forth. Cosmetics are used for cleansing,
+protecting, and moisturizing the skin. 

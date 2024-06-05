@@ -15,8 +15,8 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      100px;
-  --body-size:       1.10rem;
+  --title-size:      70px;
+  --body-size:       30px;
   --code-size:       14px;
   --aside-size:      12px;
   --fig-cap-size:    176px;
@@ -37,7 +37,7 @@ html {
 d-byline {
   --heading-size:    0.6rem;
   --heading-color:   rgba(0, 0, 0, 0.5);
-  --body-size:       0.8rem;
+  --body-size:       5rem;
   --body-color:      rgba(0, 0, 0, 0.8);
 }
 
@@ -49,9 +49,9 @@ d-byline {
 
 /*-- ARTICLE APPENDIX --*/
 d-appendix {
-  --heading-size:    15px;
+  --heading-size:    11px;
   --heading-color:   rgba(0, 0, 0, 0.65);
-  --text-size:       0.8em;
+  --text-size:       5;
   --text-color:      rgba(0, 0, 0, 0.5);
 }
 
@@ -59,11 +59,11 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       25px;
+  --title-size:       30px;
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        25px;
   --hover-color:      black;
-  --bkgd-color:       #B673A3;
+  --bkgd-color:       #B673A3
 }
 
 .distill-site-footer {
